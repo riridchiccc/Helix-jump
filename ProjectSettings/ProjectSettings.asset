@@ -255,8 +255,8 @@ PlayerSettings:
   AndroidTargetDevices: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{dedicated}: Desktop/CarisKeystore.keystore'
-  AndroidKeyaliasName: riri
+  AndroidKeystoreName: '{inproject}: second keystore.keystore'
+  AndroidKeyaliasName: ogochukwu
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1

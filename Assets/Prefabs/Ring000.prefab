@@ -40,6 +40,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9d87edcc72f474286b8350edcc0ce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &-8032566056654137741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 340982332762641020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21264cf51d0ebc041b9f61016b79539e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 150
 --- !u!64 &1026083586165357133
 MeshCollider:
   m_ObjectHideFlags: 0

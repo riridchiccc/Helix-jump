@@ -466,6 +466,7 @@ GameObject:
   - component: {fileID: 6223817833844098632}
   - component: {fileID: 6898358437347825259}
   - component: {fileID: 1945443686370965103}
+  - component: {fileID: 677557463953815659}
   m_Layer: 0
   m_Name: Ring002
   m_TagString: Untagged
@@ -522,6 +523,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ea9d87edcc72f474286b8350edcc0ce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &677557463953815659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6707163817219235058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21264cf51d0ebc041b9f61016b79539e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rotationSpeed: 150
 --- !u!1 &7120251008006172767
 GameObject:
   m_ObjectHideFlags: 0
